@@ -1,0 +1,95 @@
+<HTML>
+<TITLE> ASTON MARTIN</TITLE>
+<FONT COLOR="WHITE" STYLE="FONT-FAMILY:Trebuchet MS" SIZE="30">
+ASTON<BR>
+MARTIN<BR>
+<FONT COLOR="c0c0c0">
+THE GREATEST BRITISH LUXURY AND SPORTS CAR PRODUCER<BR>
+CARS THAT FEEL LIKE A SPACE SHIP<BR>
+IN THE INDUSTRY FOR 110 YEARS..<BR>
+(TO WEBSITE->)<A Href="https://www.astonmartin.com/en" style="color:c0c0c0;">ASTON MARTIN</A><BR>
+<FONT COLOR="WHITE">
+__________________________________________________________
+<BODY>
+<BODY BGCOLOR="#0a5a4f">
+<HEAD> MODELS </HEAD><BR>
+1. <A Href="https://www.astonmartin.com/en/models/new-vantage?body=V12+Vantage" style="color:WHITE;">VANTAGE</A>
+<IMG SRC="C:\Users\91982\vita vatty Dropbox\Vatsal Luhar\PC\Downloads\amf1-hero-v2.webp" WIDTH="1000PX" HEIGHT="550PX"><BR>
+<SUB>With 700PS, this 5.2-litre V12 twin turbo engine makes the new V12 Vantage the most powerful Vantage ever. Delivering 0-62 mph in just 3.5 sec and a top speed of 200 mph, it marks the spectacular finale for an iconic bloodline with unmatched performance and dynamics.</SUB><BR>
+___________________________________________________________
+2. <A Href="https://www.astonmartin.com/en/models/dbx707" style="color:WHITE;">DBX  707/V8</A>
+<IMG SRC="C:\Users\91982\vita vatty Dropbox\Vatsal Luhar\PC\Downloads\DBX.jpg" WIDTH="1000PX" HEIGHT="550PX">
+<BR>
+<SUB>DBX707 is a luxury SUV like no other. With blistering performance, supreme dynamics, unmistakable style and absolute luxury, it's a car that dominates in every sense. DBX707 showcases true engineering mastery to unleash new levels of dynamic performance.
+</SUB><BR>
+____________________________________________________________
+3. <A Href="https://www.astonmartin.com/en/models/db12" style="color:WHITE;">DB12</A>
+<IMG SRC="C:\Users\91982\vita vatty Dropbox\Vatsal Luhar\PC\Downloads\DB1222.jpg"WIDTH="1100PX" HEIGHT="550PX">
+<BR>
+<SUB>DB12 Redefining and reinventing what it means to be a tourer. An icon risen from 73 years of category defining marvels. Cutting through continents, bruising benchmarks and taming tradition.</SUB><BR>
+_____________________________________________________________
+4. <A Href="https://www.astonmartin.com/en/models/dbs-770-ultimate" style="color:WHITE;">DBS 770</A>
+<IMG SRC="C:\Users\91982\vita vatty Dropbox\Vatsal Luhar\PC\Downloads\DBS770.jpg" WIDTH="1000PX" HEIGHT="650PX"><BR>
+<SUB>Without losing one drop of its iconic super GT character. Evolving into a muscular marvel. DBS770 Ultimate has reached its ultimate destination. One last tour before extinction.</SUB><BR>
+______________________________________________________________
+5.<A HREF="https://www.astonmartin.com/en/models/valour" STYLE="COLOR:WHITE;">VALOUR</A>
+<IMG SRC="C:\Users\91982\vita vatty Dropbox\Vatsal Luhar\PC\Downloads\VALOUR.jpg" WIDTH="1100PX" HEIGHT="650PX">
+<BR>
+<SUB>
+Valour is proof we can still dance on the edge and become one with the very soul of a car. Challenging and delighting us with every gear shift. This white knuckled, open hearted, adrenaline-filled thrill is what we live and drive for. Every detail is engineered to bring back what the road has lost.</SUB> <BR>
+______________________________________________________________
+6.<A HREF="https://www.astonmartin.com/en/models/aston-martin-valkyrie?body=Valkyrie+Coupe" STYLE="COLOR:WHITE;"> VALKYRIE</A>
+<IMG SRC="C:\Users\91982\vita vatty Dropbox\Vatsal Luhar\PC\Downloads\VALKYRIE.webp" WIDTH="1100PX" HEIGHT="650PX">
+<SUB>Valkyrie comes as close as possible to being a Formula One ® car without being restricted to the track. Its rebellious technology is the direct result of our partnership with Red Bull Racing Advanced Technology with all the Aston Martin hallmarks of cleverly crafted luxury.  </SUB><BR>
+_______________________________________________________________
+7.<A HREF="https://www.astonmartin.com/en/models/valhalla" STYLE="COLOR:WHITE;">VALHALLA</A>
+<IMG SRC="D:\1SAD.jpg" WIDTH="1100PX" HEIGHT="550PX">
+<BR>
+<SUB>Sensational. Audacious. Unprecedented. Valhalla is our first hybrid supercar, designed for a complete driver-centric experience. Chassis, aerodynamics, and electronics expertise forged in Formula 1®. Meets cutting-edge hybrid powertrain technology. All to give an immersive, uninterrupted connection between driver and vehicle. On the road. And on the track.</SUB><BR>
+________________________________________________________________
+<H3> COMPARING DATA </H3>
+<table BORDER="5" BGCOLOR="WHITE" STYLE="WIDTH:100%">
+  <tr style="height:50px">
+    <td>NAME</td>
+    <td>TORQUE</td>
+    <td>HP</td>
+  </tr>
+  <tr style="height:50px">
+    <td>VANTAGE</td>
+    <td>753NM</td>
+    <td>700</td>
+  </tr>
+<TR style="height:50px">
+<TD>DBX</TD>
+<TD>900NM</TD>
+<TD>707</TD>
+</TR>
+<TR style="height:50px">
+<TD>DB12</TD>
+<TD>800NM</TD>
+<TD>680</TD>
+</TR>
+<TR style="height:50px">
+<TD>DBS 770</TD>
+<TD>665NM</TD>
+<TD>770</TD>
+</TR>
+<TR style="height:50px">
+<TD>VALOUR</TD>
+<TD>754NM</TD>
+<TD>705</TD>
+</TR>
+<TR style="height:50px">
+<TD>VALKYRIE</TD>
+<TD>665NM</TD>
+<TD>1150</TD>
+</TR>
+<TR style="height:50px">
+<TD>VALHALLA</TD>
+<TD>1,000Nm</TD>
+<TD>1012</TD>
+</TR>
+</table>
+<img src="C:\Users\91982\vita vatty Dropbox\Vatsal Luhar\PC\Downloads\ASTON2.jpg" WIDTH="1450PX" HEIGHT="950PX">
+<embed src="C:\Users\91982\Videos\Captures\(238) INTENSITY. DRIVEN. _ Aston Martin - YouTube - Opera 2023-10-23 02-52-25.mp4" width="1500px" height="900px">
+
